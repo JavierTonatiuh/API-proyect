@@ -1,0 +1,16 @@
+.nav {
+    margin-inline: auto;
+    margin-bottom: 3rem;
+    background-color: #ffe81f;
+    margin: 0%;
+    padding: 2%;
+  }
+  
+  .nav ul {
+    color: black;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    list-style: none;
+    font-size: 20px;
+  }
